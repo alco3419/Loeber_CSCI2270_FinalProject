@@ -1,0 +1,456 @@
+Arsenal,3,Kieran Gibbs,Defender,England,England,126,2,11,1,HG
+
+Arsenal,4,Per Mertesacker,Defender,Germany,Germany,146,5,11,2,NA
+Arsenal,5,Gabriel Paulista,Defender,Brazil,NA,23,1,3,1,NA
+Arsenal,6,Laurent Koscielny,Defender,France,France,174,15,24,4,NA
+Arsenal,7,Tomas Rosicky,Midfielder,Czech Republic,Czech Republic,170,19,23,0,NA
+Arsenal,8,Mikel Arteta,Midfielder,Spain,NA,109,14,15,1,NA
+Arsenal,10,Jack Wilshere,Midfielder,England,England,6,21,2,HG
+Arsenal,11,Mesut Ozil,Midfielder,Germany,Germany,78,15,3,0,NA
+Arsenal,12,Olivier Giroud,Forward,France,France,129,53,14,2,NA
+Arsenal,13,David Ospina,Goalkeeper,Colombia,Colombia,22,0,0,0,NA
+Arsenal,14,Theo Walcott,Forward,England,England,232,55,5,0,HG
+Arsenal,15,Alex Oxlade-Chamberlian,Midfielder,England,England,100,7,5,0,HG
+Arsenal,16,Aaron Ramsey,Midfielder,Wales,Wales,182,28,22,0,HG
+Arsenal,17,Alexis Sanchez,Forward,Chile,Chile,59,25,5,0,NA
+Arsenal,18,Nacho Monreal,Defender,Spain,Spain,92,1,8,0,NA
+Arsenal,19,Santiago Cazorla,Midfielder,Spain,Spain,120,23,11,1,NA
+Arsenal,20,Mathieu Flamini,Midfielder,France,France,168,10,27,1,NA
+Arsenal,23,Danny Welbeck,Forward,England,England,32,7,4,0,HG
+Arsenal,25,Carl Jenkinson,Defender,England,England,37,1,3,2,HG
+Arsenal,28,Joel Campbell,Forward,Costa Rica,Costa Rica,21,3,0,0,NA
+Arsenal,33,Petr Cech,Goalkeeper,Czech Republic,Czech Republic,28,0,0,0,NA
+Arsenal,34,Francis Coquelin,Midfielder,France,NA,64,0,13,1,HG
+Arsenal,35,Mohamed Elneny,Midfielder,Egypt,Egypt,5,0,2,0,NA
+Aston Villa,1,Brad Guzan,Goalkeeper,United States,United States,142,0,7,0,NA
+Aston Villa,4,Micah Richards,Defender,England,England,22,1,3,0,HG
+Aston Villa,5,Jores Okore,Defender,Cote D’Ivorie,Denmark,38,1,7,0,NA
+Aston Villa,6,Cairan Clark,Defender,England,Ireland,131,6,40,2,HG
+Aston Villa,7,Leandro Bacuna,Defender,Netherlands,Curacao,80,6,14,0,NA
+Aston Villa,8,Idrissa Gueye,Midfielder,Senegal,Senegal,30,0,8,0,NA
+Aston Villa,9,Scott Sinclair,Midfielder,England,NA,31,3,0,0,0,HG
+Aston Villa,11,Gabriel Agbonlahor,Forward,England,England,322,74,40,1,HG
+Aston Villa,15,Ashley Westwood,Midfielder,England,NA,119,3,19,0,HG
+Aston Villa,16,Joleon Lescott,Defender,England,England,25,1,2,0,HG
+Aston Villa,17,Jordan Veretout,Midfielder,France,NA,25,0,4,0,NA
+Aston Villa,18,Kieran Richardson,Defender,England,England,32,0,5,1,HG
+Aston Villa,19,Jordan Ayew,Forward,France,Ghana,25,6,6,1,NA
+Aston Villa,21,Alan Hutton,Defender,Scotland,Scotland,85,1,21,2,NA
+Aston Villa,24,Carlos Sanchez,Midfielder,Colombia,Colombia,44,1,9,1,NA
+Aston Villa,25,Carles Gil,Midfielder,Spain,NA,28,2,4,0,NA
+Aston Villa,27,Libor Kozak,Forward,Czech Republic,Czech Republic,18,4,1,0,NA
+Aston Villa,28,Charles N’Zogbia,Midfielder,France,France,80,4,8,0,HG
+Aston Villa,31,Mark Bunn,Goalkeeper,England,NA,7,0,1,0,HG
+Aston Villa,39,Rudy Gestede,Forward,France,Benin,29,5,2,0,NA
+Aston Villa,43,Aly Cissokho,Defender,France,France,39,0,4,0,NA
+Aston Villa,46,Kevin Toner,Midfielder,Ireland,NA,0,0,0,0,NA
+AFC Bournemouth,1,Artur Boruc,Goalkeeper,Poland,Poland,28,0,2,0,NA
+AFC Bournemouth,2,Simon Francis,Defender,England,NA,33,0,5,1,HG
+AFC Bournemouth,3,Steve Cook,Defender,England,NA,31,4,5,0,HG
+AFC Bournemouth,4,Dan Gosling,Midfielder,England,NA,31,3,6,0,HG
+AFC Bournemouth,5,Tommy Elphick,Defender,England,NA,7,0,0,0,HG
+AFC Bournemouth,6,Andrew Surman,Midfielder,South Africa,NA,33,0,4,0,HG
+AFC Bournemouth,7,Marc Pugh,Midfielder,England,NA,22,2,1,0,HG
+AFC Bournemouth,8,Harry Arter,Midfielder,England,Ireland,19,1,6,0,HG,
+AFC Bournemouth,9,Tokelo Rantie,Forward,South Africa,South Africa,3,0,0,0,NA
+AFC Bournemouth,10,Max Gradel,Forward,Cote d’Ivoire,Cote d’Ivoire,11,1,1,0,HG
+AFC Bournemouth,11,Charlie Daniels,England,NA,32,3,2,0,HG
+AFC Bournemouth,12,Juan Iturbe,Forward,Argentina,Paraguay,2,0,0,0,LI
+AFC Bournemouth,13,Callum Wilson,Forward,England,NA,8,5,0,0,HG
+AFC Bournemouth,14,Tyrone Mings,Defender,England,NA,1,0,0,0,HG
+AFC Bournemouth,15,Adam Smith,Defender,England,NA,31,2,5,0,HG
+AFC Bournemouth,16,Shaun MacDonald,Midfielder,Wales,Wales,3,0,0,0,HG
+AFC Bournemouth,17,Joshua King,Forward,Norway,Norway,26,5,1,0,HG
+AFC Bournemouth,19,Junior Stanislas,Midfielder,England,NA,17,3,1,0,HG
+AFC Bournemouth,20,Benik Afobe,Forward,England,NA,11,4,0,0,HG
+AFC Bournemouth,23,Adam Federici,Goalkeeper,Australia,Australia,5,0,0,0,NA
+AFC Bournemouth,25,Sylvain Distin,Defender,France,NA,12,0,0,0,NA
+AFC Bournemouth,27,Glenn Murray,Forward,Midfielder,NA,19,3,2,0,NA
+AFC Bournemouth,28,Lewis Grabban,Forward,England,NA,10,0,2,0,HG
+AFC Bournemouth,30,Matt Ritchie,Forward,England,Scotland,32,3,4,0,HG
+AFC Bournemouth,32,Eunan O’Kane,Midfielder,England,Ireland,16,0,2,0,HG
+AFC Bournemouth,48,Josh Wakefield,Midfielder,England,NA,0,0,0,0,HG
+AFC Bournemouth,-,Rhoys Wiggins,Defender,England,NA,0,0,0,0,HG
+Chelsea,1,Asmir Begovic,Goalkeeper,Bosnia and Herzegovina,Bosnia and Herzegovina,13,0,0,0,HG
+Chelsea,2,Branislav Ivanovic,Defender,Serbia,Serbia,243,22,53,2,NA
+Chelsea,4,Cesc Fabregas,Midfielder,Spain,Spain,65,7,16,1,HG
+Chelsea,8,Oscar,Midfielder,Brazil,Brazil,120,21,15,0,NA
+Chelsea,9,Falcao,Forward,Colombia,Colombia,10,1,1,0,LI
+Chelsea,10,Eden Hazard,Midfielder,Belgium,Belgium,133,37,8,0,NA
+Chelsea,11,Alexandre Pato,Forward,Brazil,Brazil,2,1,0,0,LI
+Chelsea,12,John Obi Mikel,Midfielder,Nigeria,Nigeria,244,1,36,1,NA
+Chelsea,13,Thibaut Courtois,Goalkeeper,Belgium,Belgium,52,0,2,1,NA
+Chelsea,17,Pedro,Forward,Spain,Spain,24,6,3,0,NA
+Chelsea,18,Loic Remy,Forward,France,France,32,8,0,0,NA
+Chelsea,19,Diego Costa,Forward,Brazil,Spain,50,31,16,0,NA
+Chelsea,21,Nemanja Matic,Midfielder,Serbia,Serbia,83,2,18,2,NA
+Chelsea,22,Willian,Midfielder,Brazil,Brazil,90,10,11,1,NA
+Chelsea,24,Gary Cahill,Defender,England,England,120,6,11,0,HG
+Chelsea,26,John Terry,Defender,England,England,479,40,70,5,HG,
+Chelsea,28,Cesar Azpilicueta,Defender,Spain,Spain,116,2,11,1,NA
+Chelsea,32,Marco Amelia,Goalkeeper,Italy,Italy,0,0,0,0,NA
+Chelsea,38,Kasey Palmer,Midfielder,England,NA,0,0,0,0,NA
+Chelsea,41,Charlie Colkett,Midfielder,England,NA,0,0,0,0,NA
+Crystal Palace,1,Julian Speroni,Goalkeeper,Argentina,NA,79,0,1,0,NA
+Crystal Palace,2,Joel Ward,Defender,England,NA,99,3,10,0,HG
+Crystal Palace,3,Adrian Mariappa,Defender,England,Jamaica,37,1,9,0,HG
+Crystal Palace,4,Brede Hangeland,Defender,United States,Norway,21,2,4,0,NA
+Crystal Palace,5,Paddy McCarthy,Defender,Ireland,NA,1,0,0,0,HG
+Crystal Palace,6,Scott Dann,Defender,England,NA,80,8,16,0,HG
+Crystal Palace,7,Yohan Cabaye,Midfielder,France,France,29,5,7,0,NA
+Crystal Palace,9,Fraizer Campbell,Forward,England,England,31,4,6,0,HG
+Crystal Palace,10,Yannick Bolasie,Midfielder,France,Democratic Republic of the Congo,86,8,6,1,NA,
+Crystal Palace,11,Wilfried Zaha,Midfielder,Cote d’Ivoire,England,63,6,6,0,HG
+Crystal Palace,12,Alex McCarthy,Goalkeeper,England,NA,7,0,0,0,HG
+Crystal Palace,13,Wayne Hennessey,Goalkeeper,Wales,Wales,30,0,1,0,HG
+Crystal Palace,14,Lee Chung-yong,Midfielder,South Korea,South Korea,14,1,0,0,NA
+Crystal Palace,15,Mile Jedinak,Midfielder,Australia,Australia,85,6,17,1,NA
+Crystal Palace,16,Dwight Gayle,Forward,England,NA,61,13,4,1,HG
+Crystal Palace,18,James McArthur,Midfielder,Scotland,Scotland,56,4,9,0,NA
+Crystal Palace,19,Ezekiel Fryers,Defender,England,NA,1,0,0,0,HG
+Crystal Palace,21,Connor Wickham,Forward,England,NA,17,5,1,0,HG
+Crystal Palace,22,Jordon Mutch,Midfielder,England,NA,24,0,2,0,HG
+Crystal Palace,23,Pape Soure,Defender,Senegal,Senegal,38,0,5,1,NA
+Crystal Palace,25,Emmanuel Adebayor,Togo,Togo,8,1,1,0,NA
+Crystal Palace,26,Bakary Sako,Midfielder,France,Mali16,2,1,0,NA
+Crystal Palace,27,Damien Delaney,Defender,Ireland,Ireland,93,3,18,1,NA
+Crystal Palace,28,Joe Ledley,Midfielder,Wales,Wales,63,5,1,0,HG
+Crystal Palace,29,Marouane Chamakh,Forward,France,Morocco,60,7,14,0,NA
+Crystal Palace,34,Martin Kelly,Defender,England,England,42,0,4,0,HG
+Crystal Palace,42,Jason Puncheon,Midfielder,England,NA,98,14,12,1,HG
+Everton,1,Joel Robles,Goalkeeper,Spain,NA,18,0,2,0,NA
+Everton,2,Tony Hibbert,Defender,England,NA,264,0,37,2,HG
+Everton,3,Leighton Baines,Defender,England,England,275,23,30,0,HG
+Everton,4,Darron Gibson,Midfielder,England,Ireland,48,2,7,1,HG
+Everton,6,Phil Jagielka,Defender,England,England,262,10,13,0,HG
+Everton,8,Bryan Oviedo,Defender,Costa Rica,Costa Rica,41,2,5,0,NA
+Everton,9,Arouna Kone,Forward,Cote d’Ivoire,Cote d’Ivoire,41,6,3,0,NA
+Everton,10,Romelu Lukaku,Forward,Belgium,Belgium,99,43,5,0,HG
+Everton,11,Kevin Mirallas,Midfielder,Belgium,Belgium,106,23,13,2,NA
+Everton,12,Aaron Lennon,Midfielder,England,England,34,7,2,0,HG
+Everton,14,Oumar Niasse,Forward,Senegal,Senegal,3,0,0,0,NA
+Everton,15,Tom Cleverley,Midfielder,England,England,18,1,0,0,HG
+Everton,16,James McCarthy,Midfielder,Scotland,Ireland,86,4,18,1,HG
+Everton,17,Muhamed Besic,Germany,Bosnia and Herzegovina,32,0,9,0,NA
+Everton,18,Gareth Barry,Midfielder,England,England,95,3,27,2,HG
+Everton,20,Ross Barkley,Midfielder,England,England,108,16,12,0,HG
+Everton,21,Leon Osman,Midfielder,England,England,349,44,36,0,HG
+Everton,22,Steven Pienaar,Midfielder,South Africa,South Africa,188,20,38,3,NA
+Everton,23,Seamus Coleman,Defender,Ireland,Ireland,179,14,23,1,NA
+Everton,24,Tim Howard,United States,United States,352,1,16,1,NA
+Everton,25,Ramiro Funes Mori,Defender,Argentina,Argentina,25,3,4,0,NA
+Leicester City,1,Kasper Schmeicheln,Goalkeeper,Denmark,Denmark,57,0,2,0,HG
+Leicester City,4,Daniel Drinkwater,Midfielder,England,England,54,1,4,0,HG
+Leicester City,5,Wes Morgan,Defender,England,Jamaica,70,3,3,1,HG
+Leicester City,6,Robert Huth,Defender,Germany,Germany,46,4,9,0,HG
+Leicester City,8,Matthew James,Midfielder,England,NA,27,0,2,1,HG
+Leicester City,9,Jamie Vardy,Forward,England,England,67,26,10,0,HG
+Leicester City,10,Andy King,Midfielder,England,Wales,45,3,3,0,HG
+Leicester City,11,Marc Albrighton,Midfielder,England,NA,51,3,7,0,HG
+Leicester City,12,Ben Hamer,Goalkeeper,England,NA,8,0,0,0,HG
+Leicester City,14,N’Golo Kante,Midfielder,France,France,32,1,3,0,NA
+Leicester City,15,Jeffery Schlupp,Midfielder,Germany,Ghana,51,4,8,0,HG
+Leicester City,17,Danny Simpson,Defender,England,NA,39,0,8,1,HG
+Leicester City,18,Liam Moore,Defender,England,NA,11,0,4,0,HG
+Leicester City,20,Shinji Okazaki,Forward,Japan,Japan,31,5,1,0,NA
+Leicester City,23,Leonardo Ulloa,Forward,Argentina,NA,62,14,3,0,NA
+Leicester City,24,Nathan Dyer,Midfielder,England,NA,12,1,1,0,HG
+Leicester City,26,Riyad Mahrez,Midfielder,France,Algeria,62,20,1,0,NA
+Leicester City,27,Marcin Wasilewski,Defender,Poland,Poland,27,1,8,0,NA
+Leicester City,28,Christian Fuchs,Defender,Austria,Austria,27,0,4,0,NA
+Leicester City,32,Mark Schwarzer,Goalkeeper,Australia,Australia,6,0,0,0,NA
+Leicester City,33,Gokhan Inler,Midfielder,Switzerland,Switzerland,5,0,0,0,NA
+Liverpool,2,Nathaniel Clyne,Defender,England,England,30,1,5,0,HG
+Liverpool,3,Jose Enrique,Defender,Spain,NA,76,2,3,0,NA
+Liverpool,4,Kolo Toure,Defender,Cote d’Ivoire,Cote d’Ivoire,43,1,2,0,NA
+Liverpool,6,Dejan Lovern,Defender,Croatia,Croatia,46,0,6,0,NA
+Liverpool,7,James Milner,Midfielder,England,England,25,5,7,1,HG
+Liverpool,9,Christian Benteke,Forward,Democratic Republic of the Congo,Belgium,25,7,2,0,NA
+Liverpool,10,Philippe Coutinho,Midfielder,Brazil,Brazil,102,20,7,1,NA
+Liverpool,11,Roberto Firmino,Forward,Brazil,Brazil,26,8,1,0,NA
+Liverpool,14,Jordan Henderson,Midfielder,England,England,155,19,17,1,HG
+Liverpool,15,Daniel Sturridge,Forward,England,England,64,40,4,0,HG
+Liverpool,17,Mamadou Sako,Defender,France,France,54,1,2,0,NA
+Liverpool,18,Alberto Moreno,Defender,Spain,Spain,56,3,9,0,NA
+Liverpool,19,Steven Caulker,Defender,England,England,3,0,0,0,HG
+Liverpool,20,Adam Lallana,Midfielder,England,England,53,8,6,0,HG
+Liverpool,21,Lucas Leiva,Midfielder,Brazil,Brazil,217,1,47,1,NA
+Liverpool,22,Simon Mignolet,Goalkeeper,Belgium,Belgium,104,0,2,0,NA
+Liverpool,24,Joe Allen,Midfielder,Wales,Wales,85,3,9,0,HG
+Liverpool,26,Tiago Ilori,Defender,England,NA,0,0,0,0,NA
+Liverpool,28,Danny Ings,Forward,England,NA,5,2,1,0,HG
+Liverpool,34,Adam Bogdan,Goalkeeper,Hungary,Hungary,1,0,0,0,NA
+Liverpool,35,Kevin Stewart,Defender,England,NA,2,0,1,0,HG
+Liverpool,37,Martin Skrtel,Defender,Slovakia,Slovakia,239,16,43,1,NA
+Liverpool,38,Jon Flanagan,Defender,England,England,38,1,8,0,HG
+Liverpool,52,Danny Ward,Goalkeeper,Wales,Wales,0,0,0,0,HG
+Liverpool,53,Joao Teixeira,Midfielder,Portugal,NA,2,0,0,0,NA
+Manchester City,1,Joe Hart,Goalkeeper,England,England,260,0,4,0,HG
+Manchester City,3,Bacary Sagna,Defender,France,France,34,0,4,0,NA
+Manchester City,4,Vincent Kompany,Defender,Belgium,Belgium,219,13,41,3,NA
+Manchester City,5,Pablo Zabaleta,Defender,Argentina,Argentina,206,8,52,4,NA
+Manchester City,6,Fernando,Midfielder,Brazil,NA,45,3,10,0,NA
+Manchester City,8,Samir Nasri,Midfielder,France,France,125,18,15,1,NA
+Manchester City,10,Sergio Aguero,Forward,Argentina,Argentina,145,96,13,0,NA
+Manchester City,11,Aleksandar Kolarov,Defender,Serbia,Serbia,132,10,20,1,NA
+Manchester City,13,Willy Caballero,Goalkeeper,Argentina,NA,6,0,0,0,NA
+Manchester City,14,Wilfried Bony,Forward,Cote d’Ivoire,Cote d’Ivoire,32,6,2,0,NA
+Manchester City,15,Jesus Navas,Midfielder,Spain,Spain,93,4,4,0,NA
+Manchester City,17,Kevin De Bruyne,Midfielder,Belgium,Belgium,21,6,2,0,NA
+Manchester City,18,Fabian Delph,Midfielder,England,England,13,2,0,0,HG
+Manchester City,20,Eliaquim Mangala,Defender,France,France,42,0,11,1,NA
+Manchester City,21,David Silva,Midfielder,Spain,Spain,185,35,18,0,NA
+Manchester City,22,Gael Clichy,Defender,France,France,111,1,7,1,HG
+Manchester City,25,Fernandinho,Midfielder,Brazil,Brazil,94,10,21,0,NA
+Manchester City,26,Martin Demichelis,Defender,Argentina,Argentina,76,3,15,0,NA
+Manchester City,29,Richard Wright,Goalkeeper,England,England,0,0,0,0,HG
+Manchester City,30,Nicolas Otamendi,Defender,Argentina,Argentina,25,1,6,0,NA
+Manchester City,42,Yaya Toure,Midfielder,Cote d’Ivoire,Cote d’Ivoire,190,57,29,0
+Manchester United,1,David de Gea,Goalkeeper,Spain,Spain,159,0,1,0,NA
+Manchester United,4,Phil Jones,Defender,England,England,104,2,18,0,HG
+Manchester United,5,Marcos Rojo,Defender,Argentina,34,0,9,0,NA
+Manchester United,8,Juan Mata,Midfielder,Spain,Spain,80,20,6,1,NA
+Manchester United,10,Wayne Rooney,Forward,England,England,362,177,71,2,HG
+Manchester United,12,Chris Smalling,Midfielder,England,England,129,6,14,1,HG
+Manchester United,16,Michael Carrick,Midfielder,England,England,287,17,24,0,HG
+Manchester United,17,Daley Blind,Defender,Netherlands,Netherlands,55,3,6,0,NA
+Manchester United,18,Ashley Young,Midfielder,England,England,107,10,18,0,HG
+Manchester United,20,Sergio Romero,Goalkeeper,Argentina,Argentina,4,0,0,0,NA
+Manchester United,21,Ander Herrea,Midfielder,Spain,NA,48,9,9,0,NA
+Manchester United,25,Antonio Valencia,Defender,Colombia,Colombia,170,13,24,1,NA
+Manchester United,27,Marouane Fellaini,Midfielder,Belgium,Belgium,58,7,9,1,NA
+Manchester United,28,Morgan Schniederlin,Midfielder,France,France,25,1,3,0,HG
+Manchester United,30,Guillermo Varela,Defender,Uruguay,NA,4,0,1,0,NA
+Manchester United,31,Bastian Schweinsteiger,Midfielder,Germany,Germany,18,1,3,0,NA
+Manchester United,35,Jesse Lingard,Midfielder,England,NA,20,4,3,0,HG
+Manchester United,36,Matteo Darmian,Defender,Italy,Italy,26,0,7,0,NA
+Manchester United,48,Will Keane,Forward,England,NA,2,0,0,0,HG
+Manchester United,50,Sam Johnstone,Goalkeeper,England,NA,0,0,0,0,HG
+Newcastle United,1,Tim Krul,Goalkeeper,Netherlands,Netherlands,157,0,5,0,HG
+Newcastle United,2,Fabricio Coloccini,Defender,Argentina,Argentina,211,4,17,4,NA
+Newcastle United,3,Paul Dummett,Defender,England,Wales,60,2,7,1,HG
+Newcastle United,4,Jack Colback,Midfielder,England,NA,58,4,22,0,HG
+Newcastle United,5,Georginio Wijnaldum,Midfielder,Netherlands,Netherlands,32,9,1,0,NA
+Newcastle United,7,Moussa Sissoko,Midfielder,France,France,112,10,21,2,NA
+Newcastle United,8,Vurnon Anita,Midfielder,Netherlands Antilles,Netherlands,101,1,11,0,NA
+Newcastle United,9,Papiss Demba Cisse,Forward,Senegal,Senegal,112,36,9,0,NA
+Newcastle United,10,Siem de Jong,Midfielder,Switzerland,Netherlands,21,1,0,0,NA
+Newcastle United,11,Yoan Gouffran,Midfielder,France,NA,89,11,7,0,NA
+Newcastle United,12,Jonjo Shelvey,Midfielder,England,England,11,0,3,0,HG
+Newcastle United,14,Gabriel Obertan,Midfielder,France,NA,58,2,1,0,NA
+Newcastle United,15,Jamaal Lascelles,Defender,England,NA,13,1,1,1,HG
+Newcastle United,17,Ayoze Perez,Forward,Spain,NA,65,13,3,0,NA
+Newcastle United,19,Massadio Haidara,Defender,France,NA,37,0,3,0,NA
+Newcastle United,21,Robert Elliot,Goalkeeper,England,Ireland,36,0,2,1,HG
+Newcastle United,22,Daryl Janmaat,Defender,Netherlands,Netherlands,68,2,13,2,NA
+Newcastle United,23,Henri Saivet,Midfielder,Senegal,Senegal,4,0,0,0,NA
+Newcastle United,24,Cheick Tiote,Midfielder,Cote d’Ivoire,Cote d’Ivoire,132,1,51,1,NA
+Newcastle United,25,Andros Townsend,Midfielder,England,England,7,2,0,0,HG
+Newcastle United,26,Karl Darlow,Goalkeeper,England,NA,3,0,0,0,HG
+Newcastle United,27,Steven Taylor,Defender,England,NA,193,12,31,4,HG
+Newcastle United,28,Seydou Doumbia,Forward,Cote d’Ivoire,Cote d’Ivorie,3,0,0,0,LI
+Newcastle United,29,Emmanuel Riviere,Forward,Martinique,NA,26,1,0,0,NA
+Newcastle United,31,Sylvain Marveaux,Midfielder,France,NA,38,1,0,0,NA
+Norwich City,1,John Ruddy,Goalkeeper,England,England,112,0,3,1,HG
+Norwich City,2,Steven Whittaker,Defender,Scotland,Scotland,41,3,5,1,NA
+Norwich City,3,Andrew Wisdom,Defender,England,NA,9,0,0,0,HG
+Norwich City,5,Russell Martin,Defender,England,Scotland,121,8,8,1,HG
+Norwich City,6,Sebastien Basing,Defender,France,Cameroon,89,4,8,0,NA
+Norwich City,7,Steven Naismith,Forward,Scotland,Scotland,9,1,2,0,NA
+Norwich City,8,Jonny Howson,Midfielder,England,NA,101,8,15,0,HG
+Norwich City,9,Dieumerci Mbokani,Forward,Democratic Republic of the Congo,Democratic Republic of the Congo,25,5,0,0,LI
+Norwich City,10,Cameron Jerome,Forward,England,NA,30,3,2,0,HG
+Norwich City,11,Patrick Bamford,Forward,NA,6,0,0,0,HG
+Norwich City,12,Robbie Brady,Midfielder,Ireland,Ireland,31,3,3,0,HG
+Norwich City,13,Declan Rudd,Goalkeeper,England,NA,13,0,2,0,HG
+Norwich City,14,Wes Hoolahan,Midfielder,Ireland,Ireland,107,12,9,0,NA
+Norwich City,16,Matthew Jarvis,Midfielder,England,England,15,1,0,0,HG
+Norwich City,17,Timm Klose,Defender,Germany,Switzerland,10,1,3,0,NA
+Norwich City,18,Graham Dorrans,Midfielder,Scotland,Scotland,18,0,2,0,NA
+Norwich City,20,Tony Andreu,Midfielder,France,NA,0,0,0,0,NA
+Norwich City,21,Youssouf Mulumbu,Democratic Republic of the Congo,Democratic Republic of the Congo,7,0,1,0,NA
+Norwich City,23,Martin Olsson,Defender,Sweden,Sweden,53,1,3,0,HG
+Norwich City,24,Ryan Bennett,Defender,England,NA,58,2,16,0,HG
+Norwich City,25,Ivo Pinto,Defender,Portugal,NA,6,0,0,0,NA
+Norwich City,27,Alexander Tettey,Midfielder,Ghana,Norway,71,3,21,0,NA
+Norwich City,28,Gary O’Neil,Midfielder,England,NA,22,0,6,1,HG
+Norwich City,31,Jake Kean,Goalkeeper,England,NA,0,0,0,0,HG
+Norwich City,32,Vadis Odjidja-Ofoe,Midfielder,Belgium,Belgium,9,0,1,0,NA
+Southhampton,1,Kelvin Davis,Goalkeeper,England,NA,20,0,0,0,HG
+Southhampton,2,Cedric Soares,Defender,Germany,Portugal,23,0,3,0,NA
+Southhampton,3,Maya Yoshida,Defender,Japan,Japan,82,3,5,0,NA
+Southhampton,4,Jordy Clasie,Midfielder,Netherlands,Netherlands,19,0,4,0,NA
+Southhampton,5,Florin Gardos,Defender,Romania,Romania,11,0,1,0,NA
+Southhampton,6,Jose Fonte,Defender,Portugal,Portugal,133,7,21,1,NA
+Southhampton,7,Shane Long,Forward,Ireland,Ireland,56,13,3,0,HG
+Southhampton,8,Steven Davis,Midfielder,England,England,131,6,11,0,HG
+Southhampton,9,Jay Rodriguez,Forward,England,England,78,21,7,0,HG
+Southhampton,10,Sadio Mane,Midfielder,Senegal,Senegal,63,16,9,2,NA
+Southhampton,11,Dusan Tadic,Midfielder,Serbia,Serbia,61,9,3,0,NA
+Southhampton,12,Victor Wanyama,Midfielder,Kenya,Kenya,81,4,23,3,NA
+Southhampton,14,Oriol Romeu,Midfielder,Spain,NA,25,1,6,0,NA
+Southhampton,15,Cuco Martina,Defender,Netherlands,Curacao,12,1,1,0,NA
+Southhampton,17,Virgil van Dijk,Defender,Netherlands,Netherlands,30,3,2,0,NA
+Southhampton,19,Graziano Pelle,Forward,Italy,Italy,66,22,11,0,NA
+Southhampton,20,Juanmi,Forward,Spain,Spain,12,0,0,0,NA
+Southhampton,21,Ryan Bertrand,Defender,England,England,62,2,9,1,HG
+Southhampton,22,Maarten Stekelenburg,Goalkeeper,Netherlands,Netherlands,17,0,0,0,LI
+Southhampton,25,Pailo Gazzaniga,Goalkeeper,Argentina,NA,21,0,0,0,NA
+Southhampton,28,Charlie Austin,Forward,England,NA,6,1,0,0,HG
+Southhampton,44,Fraser Forster,Goalkeeper,England,England,44,0,1,0,HG
+Stoke City,1,Jack Butland,Goalkeeper,England,England,37,0,0,0,HG
+Stoke City,2,Phil Bardsley,Defender,England,Scotland,32,0,7,0,HG
+Stoke City,3,Erik Pieters,Defender,Netherlands,Netherlands,99,1,22,0,NA
+Stoke City,5,Marc Muniesa,Defender,Spain,NA,44,0,5,0,NA
+Stoke City,6,Glenn Whelan,Midfielder,Ireland,Ireland,242,4,39,1,HG
+Stoke City,7,Stephen Ireland,Midfielder,Ireland,Ireland,54,2,7,0,HG
+Stoke City,8,Glen Johnson,Defender,England,England,25,0,1,0,HG
+Stoke City,10,Marko Arnautovic,Forward,Austria,Austria,88,15,7,0,NA
+Stoke City,11,Joselu,Forward,Germany,NA,19,4,0,0,NA
+Stoke City,12,Marc Wilson,Defender,Northern Ireland,Ireland,146,1,29,2,HG
+Stoke City,14,Ibrahim Afellay,Midfielder,Netherlands,Netherlands,30,2,3,1,NA
+Stoke City,16,Charlie Adam,Midfielder,Scotland,Scotland,104,17,23,2,NA
+Stoke City,17,Ryan Shawcross,Defender,England,England,250,12,53,5,HG
+Stoke City,18,Mame Biram Diouf,Forward,Senegal,Senegal,57,9,0,NA
+Stoke City,19,Jonathan Walters,Forward,England,Ireland,200,39,25,1,HG
+Stoke City,20,Geoff Cameron,Defender,United States,United States,124,2,16,1,NA
+Stoke City,21,Giannelli Imbula,Midfielder,Belgium,NA,9,1,1,0,NA
+Stoke City,22,Xherdan Shaqiri,Midfielder,Serbia,Switzerland,24,3,3,0,NA
+Stoke City,23,Dionatan Teixeira,Defender,Brazil,NA,2,0,0,0,NA
+Stoke City,24,Shay Given,Goalkeeper,Ireland,Ireland,0,0,0,0,HG
+Stoke City,25,Peter Crouch,Forward,England,England,142,33,15,0,HG
+Stoke City,26,Philipp Wollcheid,Defender,Germany,Germany,40,0,6,0,NA
+Stoke City,27,Bojan,Forward,Spain,Spain,40,11,4,0,NA
+Stoke City,29,Jakob Haggard,Goalkeeper,Denmark,NA,2,0,0,0,NA
+Sunderland,2,Billy Jones,Defender,England,NA,37,1,15,0,HG
+Sunderland,3,Patrick van Aanholt,Defender,Netherlands,Netherlands,57,3,6,0,HG
+Sunderland,5,Wes Brown,Defender,England,England,76,1,10,4,HG
+Sunderland,6,Lee Cattermole,Midfielder,England,NA,157,2,56,5,HG
+Sunderland,7,Sebastian Larsson,Midfielder,Sweden,Sweden,150,12,28,0,HG
+Sunderland,8,Jack Rodwell,Midfielder,England,England,44,3,10,0,HG
+Sunderland,9,Fabio Borini,Forward,Italy,Italy,54,11,11,0,HG
+Sunderland,10,Dame N’Doye,Forward,Senegal,Senegal,9,1,1,0,LI
+Sunderland,14,Emmanuel Eboue,Defender,Cote d’Ivoire,Cote d’Ivoire,0,0,0,0,NA
+Sunderland,15,Younes Kaboul,Defender,France,France,19,0,3,1,NA
+Sunderland,16,John O’Shea,Defender,Ireland,Ireland,158,3,16,1,HG
+Sunderland,17,Jeremain Lens,Forward,Netherlands,Netherlands,19,2,4,1,NA
+Sunderland,18,Jermain Defoe,Forward,England,England,46,17,3,0,HG
+Sunderland,20,Ola Toivonen,Midfielder,Sweden,Sweden,12,0,1,0,LI
+Sunderland,21,Yann M’Vila,Midfielder,France,France,32,1,1,0,LI
+Sunderland,22,Wahbi Khazri,Midfielder,France,Tunisia,10,1,2,0,NA
+Sunderland,23,Lamine Kone,Defender,France,Cote d’Ivoire,10,0,0,0,NA
+Sunderland,24,DeAndre Yedlin,Defender,United States,United States,18,0,2,0,LI
+Sunderland,25,Vito Mannone,Goalkeeper,Italy,NA,54,0,2,0,HG
+Sunderland,27,Jan Kirchhoff,Defender,Germany,NA,11,0,0,0,NA
+Sunderland,33,Steve Harper,Goalkeeper,England,NA,0,0,0,0,HG
+Swansea City,1,Lukasz Fabianski,Goalkeeper,Poland,Poland,71,0,1,1,NA
+Swansea City,2,Jordi Amat,Defender,Spain,NA,32,0,6,0,NA
+Swansea City,3,Neil Taylor,Defender,Wales,Wales,118,0,18,0,HG
+Swansea City,4,Ki Sung-yueng,Midfielder,South Korea,South Korea,89,9,11,0,NA
+Swansea City,6,Ashely Williams,Defender,England,Wales,179,4,31,0,HG
+Swansea City,7,Leon Britton,Midfielder,England,NA,124,0,13,0,HG
+Swansea City,8,Leroy Fer,Midfielder,Netherlands,Netherlands,8,0,2,0,LI
+Swansea City,9,Albero Paloschi,Forward,Italy,NA,9,2,2,0,NA
+Swansea City,10,Andrew Ayew,Midfielder,France,Ghana,30,8,5,0,NA
+Swansea City,11,Marvin Emnes,Forward,Netherlands,NA,26,1,4,0,NA
+Swansea City,13,Kristoffer Nordfeldt,Goalkeeper,Sweden,Sweden,0,0,0,0,NA
+Swansea City,15,Wayne Routledge,Midfielder,England,NA,152,12,8,1,HG
+Swansea City,18,Badetimbi Gomis,Forward,France,France,62,12,0,0,NA
+Swansea City.20,Jefferson Montero,Midfielder,Colombia,Colombia,50,1,0,0,NA
+Swansea City,22,Angel Rangel,Defender,Spain,NA,143,3,25,1,NA
+Swansea City,23,Gylfi Sigurdsson,Midfielder,Iceland,Iceland,84,25,8,0,HG
+Swansea City,24,Jack Cork,Midfielder,England,NA,46,1,3,0,HG
+Swansea City,26,Kyle Naughton,Defender,England,NA,35,0,3,1,HG
+Swansea City,27,Kyle Bartley,Defender,England,NA,16,0,4,0,HG
+Swansea City,33,Federico Fernandez,Defender,Argentina,Argentina,57,1,2,0,NA
+Swansea City,58,Modou Barrow,Forward,Gambia,NA,31,1,1,0,NA
+Tottenham Hotspur,1,Hugo Lloris,Goalkeeper,France,France,131,0,2,0,NA
+Tottenham Hotspur,2,Kyle Walker,Defender,England,England,145,4,23,0,HG
+Tottenham Hotspur,3,Danny Rose,Defender,England,England,86,6,18,2,HG
+Tottenham Hotspur,4,Toby Alderweireld,Defender,Belgium,Belgium,33,4,3,0,NA
+Tottenham Hotspur,5,Jan Vertonghen,Defender,Belgium,Belgium,113,4,21,0,NA
+Tottenham Hotspur,7,Son Heung-Min,Midfielder,South Korea,South Korea,23,2,0,0,NA
+Tottenham Hotspur,8,Ryan Mason,Midfielder,England,England,48,2,11,0,HG
+Tottenham Hotspur,10,Harry Kane,Forward,England,England,78,46,8,0,HG
+Tottenham Hotspur,11,Erik Lamela,Midfielder,Argentina,Argentina,71,6,14,0,NA
+Tottenham Hotspur,13,Michel Vorm,Goalkeeper,Netherlands,Netherlands,5,0,0,0,NA
+Tottenham Hotspur,14,Clinton N’Jie,Forward,Cameroon,Cameroon,7,0,0,0,NA
+Tottenham Hotspur,16,Kieran Trippier,Defender,England,NA,6,1,1,0,HG
+Tottenham Hotspur,19,Mousa Dembele,Midfielder,Belgium,Belgium,110,6,12,0,NA
+Tottenham Hotspur,22,Nacer Chadli,Midfielder,Belgium,Belgium,83,15,5,0,NA
+Tottenham Hotspur,23,Christian Eriksen,Midifielder,Denmark,Denmark,93,23,8,0,NA
+Tottenham Hotspur,27,Kevin Wimmer,Defender,Austria,Austria,10,0,2,0,NA
+Tottenham Hotspur,28,Tom Carroll,Midfielder,England,NA,25,1,3,0,HG
+Tottenham Hotspur,33,Ben Davies,Defender,Wales,Wales,29,0,6,0,HG
+Tottenham Hotspur,6,Nabil Bentaleb,Midfielder,France,Algeria,46,0,11,0,NA
+Tottenham Hotspur,15,Eric Dier,Midfielder,England,England,60,5,13,0,NA
+Tottenham Hotspur,20,Dele Alli,Midfielder,England,NA,31,8,7,0,NA
+Watford,1,Heurelho Gomes,Goalkeeper,Brazil,Brazil,33,0,4,0,NA
+Watford,2,Nyom,Defender,France,Cameroon,31,0,8,0,NA
+Watford,3,Miguel Britos,Defender,Uruguay,NA,20,0,6,0,NA
+Watford,4,Mario Suarez,Midfielder,Spain,Spain,10,0,1,0,NA
+Watford,5,Sebastian Prodl,Defender,Austria,Austria,18,0,4,0,NA
+Watford,6,Joel Ekstrand,Defender,SwedenSweden,0,0,0,0,NA
+Watford,7,Jurado,Midfielder,Spain,NA,22,0,3,0,NA
+Watford,8,Valon Behrami,Midfielder,Switzerland,Switzerland,20,0,3,1,NA
+Watford,9,Troy Deeney,Forward,England,NA,33,9,6,0,HG
+Watford,11,Nordin Amrabat,Midfielder,Netherlands,Morocco,8,0,2,0,NA
+Watford,13,Rene Gilmartin,Goalkeeper,Ireland,NA,0,0,0,0,HG
+Watford,14,Juan Carlos Paredes,Defender,Colombia,Colombia,14,0,1,0,NA
+Watford,15,Craig Cathcart,Defender,England,England,30,1,3,0,HG
+Watford,17,Adlene Guedioura,Midfielder,France,Algeria,14,0,1,0,NA
+Watford,18,Costel Pantilimon,Goalkeeper,Romania,Romania,0,0,0,0,NA
+Watford,20,Steven Berghuis,Forward,Netherlands,NA,5,0,0,0,NA
+Watford,21,Ikechi Anya,Midfielder,Scotland,Scotland,24,0,0,0,HG
+Watford,22,Almen Abdi,Midfielder,Serbia,Switzerland,27,1,2,0,NA
+Watford,23,Ben Watson,Midfielder,England,NA,31,2,3,0,HG
+Watford,24,Odion Ighalo,Forward,Nigeria,Nigeria,33,14,4,0,NA
+Watford,25,Jose Holebas,Defender,Germany,Greece,10,0,2,0,NA
+Watford,27,Essaid Belkalem,Defender.Alegria,Alegria,0,0,0,0,NA
+Watford,29,Midfielder,France,France,33,0,7,0,NA
+Watford,16,Nathan Ake,Defender,Netherlands,22,1,3,1,LI
+West Bromwich Albion,1,Ben Foster,Goalkeeper,England,England,130,0,4,0,HG
+West Bromwich Albion,3,Jonas Olsson,Defender,Sweden,Sweden,189,8,35,1,NA
+West Bromwich Albion,4,James Chester,Defender,England,Wales,11,0,5,0,HG
+West Bromwich Albion,5,Claudio Yacob,Midfielder,Argentina,Argentina,106,1,26,1,NA
+West Bromwich Albion,6,Jonny Evans,Defender,Northern Ireland,Northern Ireland,25,1,2,0,HG
+West Bromwich Albion,7,James Morrison,Midfielder,England,Scotland,209,23,19,1,HG
+West Bromwich Albion,8,Craig Gardner,Midfielder,England,NA,64,6,15,0,HG
+West Bromwich Albion,10,Victor Anichebe,Forward,Nigeria,Nigeria,55,6,3,0,HG
+West Bromwich Albion,11,Chris Brunt,Midfielder,Northern Ireland,Northern Ireland,212,21,40,0,HG
+West Bromwich Albion,13,Boaz Myhill,Goalkeeper,United States,Wales,61,0,3,0,HG
+West Bromwich Albion,14,James McClean,Midfielder,Ireland,Ireland,30,2,6,1,NA
+West Bromwich Albion,15,Sebastien Pocognoci,Defender,Belgium,Belgium,16,0,1,0,NA
+West Bromwich Albion,17,Rickie Lambert,Forward,England,England,19,1,2,0,HG
+West Bromwich Albion,18,Saido Berahino,Forward,Burundi,NA,98,23,2,0,HG
+West Bromwich Albion,19,Callum McManaman,Midfielder,England,NA,20,0,3,0,HG
+West Bromwich Albion,20,Alex Pritchard,Midfielder,England,NA,2,0,0,0,HG
+West Bromwich Albion,23,Gareth McAuley,Defender,Northern Ireland,Northern Ireland,153,9,12,2,NA
+West Bromwich Albion,24,Darren Fletcher,Midfielder,Scotland,Scotland,48,2,5,0,HG
+West Bromwich Albion,25,Craig Dawson,Defender,England,NA,83,5,10,0,HG
+West Bromwich Albion,29,Stephane Sessegnon,Midfielder,Benin,Benin,76,8,6,0,NA
+West Bromwich Albion,30,Sandro,Midfielder,Brazil,Brazil,8,0,0,0,LI
+West Bromwich Albion,33,Salomon Rondon,Forward,Venezuela,Venezuela,29,7,1,1,NA
+West Ham United,1,Darren Randolph,Goalkeeper,Ireland,Ireland,3,0,0,0,HG
+West Ham United,2,Winston Reid,Defender,Australia,Australia,114,3,24,0,NA
+West Ham United,3,Aaron Cresswell,Defender,England,NA,70,4,6,0,HG
+West Ham United,4,Alexandre Song,Midfielder,Cameroon,Cameroon,40,0,5,0,HG
+West Ham United,5,James Tomkins,Defender,England,NA,162,4,24,2,HG
+West Ham United,8,Cheikhou Kouyate,Midfielder,Senegal,Senegal,60,8,9,1,NA
+West Ham United,9,Andy Carroll,Forward,England,England,75,22,8,1,HG
+West Ham United,11,Enner Valencia,Forward,Colombia,Colombia,48,8,3,0,NA
+West Ham United,13,Adrian,Goalkeeper,Spain,NA,88,0,6,2,NA
+West Ham United,14,Pedro Obiang,Midfielder,Spain,NA,23,0,2,0,NA
+West Ham United,15,Diafra Sakho,Forward,Senegal,Senegal,39,14,4,0,NA
+West Ham United,16,Mark Noble,Midfielder,England,NA,254,26,57,4,HG
+West Ham United,17,Joey O’Brien,Defender,Ireland,Ireland,59,2,12,0,HG
+West Ham United,19,James Collins,Defender,Wales,Wales,152,3,32,2,HG
+West Ham United,20,Victor Moses,Midfielder,Nigeria,Nigeria,17,1,0,0,HG
+West Ham United,21,Angelo Ogbonna,Defender,Ireland,Ireland,23,0,4,0,NA
+West Ham United,22,Sam Byram,Defender,England,4,0,3,0,HG
+West Ham United,25,Doneil Henry,Defender,Canada,Canada,0,0,0,0,NA
+West Ham United,27,Dimitri Payet,Midfielder,France,France,26,9,3,0,NA
+West Ham United,28,Manuel Lanzini,Midfielder,Argentina,NA,21,6,3,0,NA
+West Ham United,29,Emmanuel Emenike,Forward,Nigeria,Nigeria,9,0,0,0,LI
+West Ham United,30,Michail Antonio,Midfielder,England,NA,21,6,3,0,HG
+West Ham United,34,Raphael Speigel,Goalkeeper,Switzerland,NA,0,0,0,0,NA
