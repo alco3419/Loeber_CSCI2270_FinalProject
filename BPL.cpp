@@ -397,6 +397,10 @@ void BPL::teamRemovePlayers(struct player* head,struct team* team)
     string gk2;
     cout<<"Enter Desired Position: ";
     getline(cin,dpos);
+    if(dpos != "Forward" || dpos != "Midfielder" || dpos != "Defender" || dpos != "Goalkeeper") ///If the input does not match
+    {
+        cout<<"Not a valid position. Please check your spelling and try again."<<endl;
+    }
     if(dpos=="Forward")
     {
         cout<<"Position Number? ";
@@ -529,6 +533,10 @@ void BPL::teamAddPlayers(struct player* head,struct team* team)
     string gk2;
     cout<<"Enter Desired Position: ";
     getline(cin,dpos);
+    if(dpos != "Forward" || dpos != "Midfielder" || dpos != "Defender" || dpos != "Goalkeeper") ///if the input does not match
+    {
+        cout<<"Not a valid position. Please check your spelling and try again."<<endl;
+    }
     if(dpos=="Forward")
     {
         cout<<"Enter Forward 1's Name: ";
@@ -1408,7 +1416,6 @@ void BPL::searchName(struct player* head)
     string inputName;
     cout<<"Enter Name: ";
     getline(cin,inputName);
-
     player* searcher=head;
     while(searcher->next!=NULL)
     {
